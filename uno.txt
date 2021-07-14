@@ -1,2 +1,1 @@
-hola uno
-Texto agregado en la rama prueba1
+Conflcto de versiones solucionado
